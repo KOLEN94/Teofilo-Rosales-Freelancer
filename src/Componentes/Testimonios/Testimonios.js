@@ -1,7 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import Marquee from "react-marquee-slider";
 import './Estilos-Testimonio.css'
-/* import { AnimationOnScroll } from 'react-animation-on-scroll'; */
+import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 export default function Testimonios() {
 
@@ -44,21 +44,22 @@ export default function Testimonios() {
       <Container fluid id="Testimonio" className="seccion-testimonios">
         <Row>
           <Col>
-
+            <AnimationOnScroll animateIn="animate__fadeInDown" animateOnce={true}>
               <h2 className="tituloh2 text-center" style={{ color: "#fff", padding: "30px" }} >
                 Testimonios
               </h2>
-
+            </AnimationOnScroll>
             <div style={{ height: "275px" }}>
               <Marquee velocity={20}>
                 {Item.map((Item) => (
-                  
+                  <AnimationOnScroll animateIn="animate__fadeIn" delay={300} animateOnce={true} key={Item.id}>
                     <div key={Item.id} className="tarjeta-slider-testimonio align-items-center justify-contents-center">
                       <div className="cuerpo-tarjeta-testimonio">
                         <h3 className="titulo-h3">{Item.name}</h3>
                         <p className="texto-cuerpo ">{Item.text}</p>
                       </div>
-                    </div>                 
+                    </div>
+                  </AnimationOnScroll>
                 ))}
               </Marquee>
             </div>

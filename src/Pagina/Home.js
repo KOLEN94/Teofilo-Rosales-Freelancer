@@ -10,6 +10,7 @@ import Testimonios from '../Componentes/Testimonios/Testimonios';
 import Whatsapp from '../Componentes/botonwhatsapp/Whatsapp';
 import Contacto from '../Componentes/Contacto/Contacto';
 import Footer from '../Componentes/Footer/Footer';
+import "animate.css/animate.min.css";
 const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
   

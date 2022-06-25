@@ -12,7 +12,7 @@ const Menu = ({ items }) => {
 
           return (
             
-              <Card key={id} className="menu-item">
+              <Card key={id} className="menu-item fadeInprincipal">
                 <Card.Img variant="top" src={img} />
                 <Card.Body>
                   <Card.Title className='titulo-h5'>{titulo}</Card.Title>
