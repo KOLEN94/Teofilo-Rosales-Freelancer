@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css",
-    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.8c3209e7.js",
+    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.32ea0efd.js",
     "static/media/RaicesTj.png": "/Teofilo-Rosales-Freelancer/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
     "static/media/banner-teofilowp-mobil.jpg": "/Teofilo-Rosales-Freelancer/static/media/banner-teofilowp-mobil.2031ac0887a540017e87.jpg",
     "static/media/bg-pattern.jpg": "/Teofilo-Rosales-Freelancer/static/media/bg-pattern.3f9a1fd0cc9d957a7110.jpg",
@@ -43,10 +43,10 @@
     "static/media/inmobiliaria-pagina.png": "/Teofilo-Rosales-Freelancer/static/media/inmobiliaria-pagina.3cc47c89de9c1a0ee1f2.png",
     "index.html": "/Teofilo-Rosales-Freelancer/index.html",
     "main.49db5852.css.map": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css.map",
-    "main.8c3209e7.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.8c3209e7.js.map"
+    "main.32ea0efd.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.32ea0efd.js.map"
   },
   "entrypoints": [
     "static/css/main.49db5852.css",
-    "static/js/main.8c3209e7.js"
+    "static/js/main.32ea0efd.js"
   ]
 }
