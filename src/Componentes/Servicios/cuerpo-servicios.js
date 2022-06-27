@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container, Row } from 'react-bootstrap'
-import '../../estilos/Servicios.css';
+import './Servicios-estilos.css';
 import Cajaservicios from "./Cajaservicios"
 import { Servicio01, Servicio02, Servicio03, Servicio04 } from './Data';
 const cuerposervicios = () => {

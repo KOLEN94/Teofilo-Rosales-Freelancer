@@ -14,6 +14,8 @@ import { BsWordpress } from 'react-icons/bs';
 import { IoShareSocialOutline } from 'react-icons/io5';
 import { GoPlug } from 'react-icons/go';
 import { FaCcPaypal } from 'react-icons/fa';
+import { FiFigma } from 'react-icons/fi';
+import { IoLocationOutline } from 'react-icons/io5';
 
 export const Habilidad01 = {
     id:'01',
@@ -94,4 +96,14 @@ export const Habilidad16 = {
     id:'16',
     titulo: 'Conf.Pasarelas de Pago',
     imagen : <FaCcPaypal/>,
+};
+export const Habilidad17 = {
+    id:'17',
+    titulo: 'Diseño interfaces Figma',
+    imagen : <FiFigma/>,
+};
+export const Habilidad18 = {
+    id:'17',
+    titulo: 'Cambiar lugar entrega producto',
+    imagen : <IoLocationOutline/>,
 };

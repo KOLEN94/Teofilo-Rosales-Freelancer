@@ -19,7 +19,9 @@ import {
   Habilidad13,
   Habilidad14,
   Habilidad15,
-  Habilidad16
+  Habilidad16,
+  Habilidad17,
+  Habilidad18
 } from './Data'
 export const Habilidades = () => {
   return (

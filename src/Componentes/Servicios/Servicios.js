@@ -11,7 +11,7 @@ const Servicios = () => {
       <Container >
         <Row>
           <Col>
-            <AnimationOnScroll animateIn="animate__fadeIn" delay={1000}animateOnce={true}> 
+            <AnimationOnScroll animateIn="animate__fadeIn" animateOnce={true}> 
               <h2 className='tituloh2 text-center'>Servicios</h2>
              </AnimationOnScroll> 
           </Col>

@@ -9,7 +9,7 @@ const Cajaservicios = ({ titulo, description, imagen, alt}) => {
     <>
     
         <Col lg= {3} md={6} sm={12}>
-        <AnimationOnScroll animateIn="animate__zoomIn" delay={500} animateOnce={true}>
+        <AnimationOnScroll animateIn="animate__zoomIn" delay={1000} animateOnce={true}>
           <Card className='p-4 mt-3 tarjeta-servicio'>
               <div >
                 <img src={  imagen } alt={alt} className='img-servicio'></img>

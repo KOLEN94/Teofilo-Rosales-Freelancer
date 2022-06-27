@@ -48,7 +48,7 @@ export default function Hero() {
               <Button variant="outline-light"
                 className="titulo-nav-menu boton-cv"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/19dibH17TRZklsZvZk9Q4fnvHHbtOr_AH/view?usp=sharing"
+                href="https://drive.google.com/file/d/1NNoMXhHhxm9JMlYFKC8yxUjwWxnvNuId/view?usp=sharing"
                 target="_blank">
                 <AiOutlineFilePdf /> Descargar cv
               </Button>
