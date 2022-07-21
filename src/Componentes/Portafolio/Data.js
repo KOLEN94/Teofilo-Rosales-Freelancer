@@ -122,7 +122,7 @@ const item = [
     titulo: 'R Data Science School',
     category: "Paginas Web",
     img: img12,
-    desc: 'Edicion y subir fotos de modelos.',
+    desc: 'Academia Online hecha con LearnDash.',
     link: 'https://rdatascienceschool.com'
   },
   {
