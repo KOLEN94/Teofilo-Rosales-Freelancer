@@ -37,6 +37,12 @@ export default function Testimonios() {
       jobTitle: "Forward Solutions Agent",
       text: "Es un profesional a echo un trabajo fantástico rápido creativo para mejor la web y obtener mejores resultado, lo recomiendo 100%.",
     },
+    {
+      id: 6,
+      name: "Daniel IT",
+      jobTitle: "Forward Solutions Agent",
+      text: "Hola teófilo, de mi parte me queda decir gracias, contigo realice los puntos pendientes en mi Pagina web y estoy satisfecho con tu trabajo. Es muy probable que en un futuro salgan más trabajos y espero contigo en ello. Saludos",
+    },
   ];
 
   return (

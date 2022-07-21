@@ -9,8 +9,8 @@ import img08 from '../../imagenes/plasticosmonterrey.com.jpg'
 import img09 from '../../imagenes/www.obilens.com.jpg'
 import img10 from '../../imagenes/edecesos.com.jpg'
 import img11 from '../../imagenes/LORENA-Metropolitanmodels-España.jpg'
-/* import img12 from '../../imagenes/demo06-calculadora.jpg'
-import img13 from '../../imagenes/peluqueria.jpg' */
+import img12 from '../../imagenes/rdatascienceschool.com.jpg'
+/*import img13 from '../../imagenes/peluqueria.jpg' */
 import img14 from '../../imagenes/venta-libros.jpg'
 import img15 from '../../imagenes/pagina-diagonal.jpg'
 import img16 from '../../imagenes/demo-agencia-cuadrado.jpg'
@@ -116,6 +116,14 @@ const item = [
     img: img11,
     desc: 'Edicion y subir fotos de modelos.',
     link: 'https://metropolitanmodels.es/lorena/'
+  },
+  {
+    id: 12,
+    titulo: 'R Data Science School',
+    category: "Paginas Web",
+    img: img12,
+    desc: 'Edicion y subir fotos de modelos.',
+    link: 'https://rdatascienceschool.com'
   },
   {
     id: 14,

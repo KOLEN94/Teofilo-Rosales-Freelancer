@@ -30,6 +30,12 @@ const listatestimonio = [
       jobTitle: 'Forward Solutions Agent',
       text: 'Voluptatibus rerum dignissimos voluptatem deserunt. Est ut eius eaque quae.'
     },
+    {
+      id: 6,
+      name: 'Daniel IT',
+      jobTitle: 'Forward Solutions Agent',
+      text: 'Voluptatibus rerum dignissimos voluptatem deserunt. Est ut eius eaque quae.'
+    },
   ]
 
 export default listatestimonio;
