@@ -8,8 +8,8 @@ import './Sobre-mi-estilos.css'
 function Sobremi() {
   const Item = [{
     id: 1,
-    contenido01: "¡Hola, soy Teofilo! Soy un desarrollador web experto en Elementor con experiencia profesional con clientes en el extranjero. Me dedico a mi oficio y soy un perfeccionista.Me gusta trabajar como autónomo porque me da la libertad de elegir cuándo y con qué frecuencia trabajo. Ayudo a negocios y pequeñas empresas a captar clientes en Internet mediante la creacion de una web profesional que transmita una imagen corporativa adecuada de su empresa. ",
-    contenido02: "Soy experto en la creación de cualquier sitio web de WordPress utilizando el constructor de páginas ELEMENTOR, puedo convertir sus diseños PSD, XD a una pagina web con Elementor Pro. Solo contácteme y cuénteme todas las caracteristicas de su proyecto. Los archivos más compatibles incluyen: Adobe XD, Figma, Sketch, PSD y muchos más. Puedo convertir tus diseños en hermosas paginas web.",
+    contenido01: "Diseñador web con 3 años de experiencia, fanático del diseño web y experto en WordPress+Woocommerce con Elementor y Gutenberg además de autodidacta. Conozco esta herramienta perfectamente y soy capaz de conseguir con ella lo que sea, siempre uniendo diseño moderno, tecnología y estrategia, para crear webs profesionales, intuitivas, responsive y de estética cuidada.",
+    contenido02: "Diseño y desarrollo webs a medida, deacuerdo con los intereses y necesidades concretas de cada cliente, y el resultado es una página con atractiva, de carga rápida y que cumple los objetivos propuestos.",
   }];
   return (
     <>

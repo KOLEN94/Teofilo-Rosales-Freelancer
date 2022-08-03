@@ -123,7 +123,7 @@ const item = [
     category: "Paginas Web",
     img: img12,
     desc: 'Academia Online hecha con LearnDash.',
-    link: 'https://rdatascienceschool.com'
+    link: 'https://rdatascience-school.com'
   },
   {
     id: 14,
