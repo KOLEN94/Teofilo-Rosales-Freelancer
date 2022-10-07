@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css",
-    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.430ee0e6.js",
+    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.6d88705b.js",
     "static/media/RaicesTj.png": "/Teofilo-Rosales-Freelancer/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
     "static/media/banner-teofilowp-mobil.jpg": "/Teofilo-Rosales-Freelancer/static/media/banner-teofilowp-mobil.2031ac0887a540017e87.jpg",
     "static/media/bg-pattern.jpg": "/Teofilo-Rosales-Freelancer/static/media/bg-pattern.3f9a1fd0cc9d957a7110.jpg",
@@ -28,6 +28,7 @@
     "static/media/ejekutaperu.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/ejekutaperu.com.d53beebc9fae1af12de2.jpg",
     "static/media/rdatascienceschool.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/rdatascienceschool.com.472b571fbcea2b671aae.jpg",
     "static/media/edecesos.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/edecesos.com.57a144abcf62689e95ba.jpg",
+    "static/media/Pagina prueba 07.jpg": "/Teofilo-Rosales-Freelancer/static/media/Pagina prueba 07.87b8a4a7477cc2fbbfd0.jpg",
     "static/media/landing-page-teo05.jpg": "/Teofilo-Rosales-Freelancer/static/media/landing-page-teo05.96cb2b7250765823dbed.jpg",
     "static/media/venta-libros.jpg": "/Teofilo-Rosales-Freelancer/static/media/venta-libros.75573471032addd59b9e.jpg",
     "static/media/pagina-diagonal.jpg": "/Teofilo-Rosales-Freelancer/static/media/pagina-diagonal.dee393e385661f8d1e26.jpg",
@@ -44,10 +45,10 @@
     "static/media/inmobiliaria-pagina.png": "/Teofilo-Rosales-Freelancer/static/media/inmobiliaria-pagina.3cc47c89de9c1a0ee1f2.png",
     "index.html": "/Teofilo-Rosales-Freelancer/index.html",
     "main.49db5852.css.map": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css.map",
-    "main.430ee0e6.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.430ee0e6.js.map"
+    "main.6d88705b.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.6d88705b.js.map"
   },
   "entrypoints": [
     "static/css/main.49db5852.css",
-    "static/js/main.430ee0e6.js"
+    "static/js/main.6d88705b.js"
   ]
 }
