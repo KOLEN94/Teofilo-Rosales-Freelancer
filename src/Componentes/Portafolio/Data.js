@@ -10,7 +10,7 @@ import img09 from '../../imagenes/www.obilens.com.jpg'
 import img10 from '../../imagenes/edecesos.com.jpg'
 import img11 from '../../imagenes/LORENA-Metropolitanmodels-España.jpg'
 import img12 from '../../imagenes/rdatascienceschool.com.jpg'
-/*import img13 from '../../imagenes/peluqueria.jpg' */
+import img13 from '../../imagenes/Pagina prueba 07.jpg' 
 import img14 from '../../imagenes/venta-libros.jpg'
 import img15 from '../../imagenes/pagina-diagonal.jpg'
 import img16 from '../../imagenes/demo-agencia-cuadrado.jpg'
@@ -124,6 +124,14 @@ const item = [
     img: img12,
     desc: 'Academia Online hecha con LearnDash.',
     link: 'https://rdatascience-school.com'
+  },
+  {
+    id: 13,
+    titulo: 'Prototipado',
+    category: "Mockup",
+    img: img13,
+    desc: 'Diseño para la Maquetacion.',
+    link: 'https://www.figma.com/proto/RUKD592gAUdtwI64N89KlI/landing-page-teo07?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2'
   },
   {
     id: 14,
