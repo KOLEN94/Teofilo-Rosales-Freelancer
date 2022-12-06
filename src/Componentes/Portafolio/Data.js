@@ -28,14 +28,14 @@ import img27 from '../../imagenes/Mockup05.jpg'
 import img28 from '../../imagenes/landing-page-teo05.jpg'
 import img29 from '../../imagenes/landing-page-teo06.jpg'
 const item = [
-  {
-    id: 1,
-    titulo: 'Raices TJ',
-    category: "Paginas Web",
-    img: img01,
-    desc: 'Creacion de sitio web.',
-    link: 'https://raicestj.com'
-  },
+  // {
+  //   id: 1,
+  //   titulo: 'Raices TJ',
+  //   category: "Paginas Web",
+  //   img: img01,
+  //   desc: 'Creacion de sitio web.',
+  //   link: 'https://raicestj.com'
+  // },
   {
     id: 2,
     titulo: 'Ubikaportalinmobiliario',
@@ -52,14 +52,14 @@ const item = [
     desc: 'Creacion de sitio web.',
     link: 'https://bakan.xmcplay.com/proyecto/'
   },
-  {
+/*   {
     id: 4,
     titulo: 'RedescubramosSonora',
     category: "Paginas Web",
     img: img04,
     desc: 'Creacion de sitio web',
     link: 'https://redescubramossonora.mx/'
-  },
+  }, */
   {
     id: 5,
     titulo: 'Ejekuta Peru',
