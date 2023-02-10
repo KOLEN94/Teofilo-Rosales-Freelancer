@@ -3,7 +3,7 @@ import { FaBars } from 'react-icons/fa';
 import {Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu,
 NavItem, NavLinks } from './NavbarEstilos';
 import { animateScroll as scroll } from 'react-scroll/modules';
-import logoteo from '../../imagenes/icono-pagina.png'
+import logoteo from '../../imagenes/logo-teo-3.svg';
 
 const Navbar = ( { toggle } ) => {
   const [scrollNav, setScrollNav] = useState(false);
