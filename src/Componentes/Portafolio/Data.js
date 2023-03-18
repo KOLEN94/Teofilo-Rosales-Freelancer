@@ -1,7 +1,7 @@
 import img01 from '../../imagenes/RaicesTj.png'
 import img02 from '../../imagenes/ubikaportalinmobiliario.jpg'
 import img03 from '../../imagenes/Bakan.jpg'
-import img04 from '../../imagenes/redescubramossonora.mx.jpg'
+import img04 from '../../imagenes/Clínica Estética en Medellín-www.clinicabedharma.com.jpg'
 import img05 from '../../imagenes/ejekutaperu.com.jpg'
 import img06 from '../../imagenes/marketinglh.tuexpert.com.jpg'
 import img07 from '../../imagenes/nuevo.modasalud.com.pe.jpg'
@@ -27,15 +27,18 @@ import img26 from '../../imagenes/Mockup04.jpg'
 import img27 from '../../imagenes/Mockup05.jpg'
 import img28 from '../../imagenes/landing-page-teo05.jpg'
 import img29 from '../../imagenes/landing-page-teo06.jpg'
+import img30 from '../../imagenes/Dr. Leonardo Rueda - drleonardorueda.com.jpg'
+import img31 from '../../imagenes/Dra Daniela Correa – Cirujana Plástica.jpg'
+import img32 from '../../imagenes/Dr David Delgado.jpg'
 const item = [
-  // {
-  //   id: 1,
-  //   titulo: 'Raices TJ',
-  //   category: "Paginas Web",
-  //   img: img01,
-  //   desc: 'Creacion de sitio web.',
-  //   link: 'https://raicestj.com'
-  // },
+  {
+     id: 1,
+     titulo: 'Raices TJ',
+     category: "Paginas Web",
+     img: img01,
+     desc: 'Creacion de sitio web.',
+     link: 'https://raicestj.com/'
+   },
   {
     id: 2,
     titulo: 'Ubikaportalinmobiliario',
@@ -52,14 +55,14 @@ const item = [
     desc: 'Creacion de sitio web.',
     link: 'https://bakan.xmcplay.com/proyecto/'
   },
-/*   {
+   {
     id: 4,
-    titulo: 'RedescubramosSonora',
+    titulo: 'Clínica Estética en Medellín',
     category: "Paginas Web",
     img: img04,
-    desc: 'Creacion de sitio web',
-    link: 'https://redescubramossonora.mx/'
-  }, */
+    desc: 'Correccion de Menu y Css',
+    link: 'https://www.clinicabedharma.com/'
+  }, 
   {
     id: 5,
     titulo: 'Ejekuta Peru',
@@ -260,6 +263,30 @@ const item = [
     img: img29,
     desc: 'Diseño para la Maquetacion',
     link: 'https://www.figma.com/proto/MO7R8VEwiBdDR0vhqh7nSo/landing-page-teo06?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1'
+  },
+  {
+    id: 30,
+    titulo: 'Dr. Leonardo Rueda',
+    category: "Paginas Web",
+    img: img30,
+    desc: 'Migracion y limpieza de Virus.',
+    link: 'https://drleonardorueda.com/'
+  },
+  {
+    id: 31,
+    titulo: 'Dr. Daniela Correa',
+    category: "Paginas Web",
+    img: img31,
+    desc: 'Migracion y limpieza de Virus.',
+    link: 'https://danielacorreacirujana.com/'
+  },
+  {
+    id: 32,
+    titulo: 'Dr. David Delgado',
+    category: "Paginas Web",
+    img: img32,
+    desc: 'Migracion y limpieza de Virus.',
+    link: 'https://daviddelgadocirujano.com/'
   },
 ]
 
