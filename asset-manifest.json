@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css",
-    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.1ee5799d.js",
+    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.fac0fe6c.js",
     "static/media/RaicesTj.png": "/Teofilo-Rosales-Freelancer/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
     "static/media/banner-teofilowp-mobil.jpg": "/Teofilo-Rosales-Freelancer/static/media/banner-teofilowp-mobil.2031ac0887a540017e87.jpg",
     "static/media/bg-pattern.jpg": "/Teofilo-Rosales-Freelancer/static/media/bg-pattern.3f9a1fd0cc9d957a7110.jpg",
@@ -13,7 +13,6 @@
     "static/media/ByC-SAC-Negocios-e-Inversiones.jpg": "/Teofilo-Rosales-Freelancer/static/media/ByC-SAC-Negocios-e-Inversiones.2be33a1f107e3aa46a39.jpg",
     "static/media/Mockup01.jpg": "/Teofilo-Rosales-Freelancer/static/media/Mockup01.4be443a10c91667d0c71.jpg",
     "static/media/banner-teofilowp.jpg": "/Teofilo-Rosales-Freelancer/static/media/banner-teofilowp.a0d56e85e293a78cae7c.jpg",
-    "static/media/redescubramossonora.mx.jpg": "/Teofilo-Rosales-Freelancer/static/media/redescubramossonora.mx.a32445bfb683d4b7058e.jpg",
     "static/media/Bakan.jpg": "/Teofilo-Rosales-Freelancer/static/media/Bakan.a12a50537489c11f8a08.jpg",
     "static/media/ubikaportalinmobiliario.jpg": "/Teofilo-Rosales-Freelancer/static/media/ubikaportalinmobiliario.467527fa176a0da3eafd.jpg",
     "static/media/Mockup04.jpg": "/Teofilo-Rosales-Freelancer/static/media/Mockup04.16474c5070e9e2117f10.jpg",
@@ -36,6 +35,10 @@
     "static/media/LORENA-Metropolitanmodels-España.jpg": "/Teofilo-Rosales-Freelancer/static/media/LORENA-Metropolitanmodels-España.2f31da907932c3ddb3f5.jpg",
     "static/media/marketinglh.tuexpert.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/marketinglh.tuexpert.com.c7e9ccbdc3d1dbb44c35.jpg",
     "static/media/Inicio – Lopez Castromil - lcastromil.atiksoluciones.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/Inicio – Lopez Castromil - lcastromil.atiksoluciones.com.102d8ec470e082c71e1a.jpg",
+    "static/media/Dra Daniela Correa – Cirujana Plástica.jpg": "/Teofilo-Rosales-Freelancer/static/media/Dra Daniela Correa – Cirujana Plástica.18e616fe2f76a70490e8.jpg",
+    "static/media/Dr David Delgado.jpg": "/Teofilo-Rosales-Freelancer/static/media/Dr David Delgado.377df7fbde6820288563.jpg",
+    "static/media/Dr. Leonardo Rueda - drleonardorueda.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/Dr. Leonardo Rueda - drleonardorueda.com.2d5fd924d75ab7f9ca45.jpg",
+    "static/media/Clínica Estética en Medellín-www.clinicabedharma.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/Clínica Estética en Medellín-www.clinicabedharma.com.c996052ddd59a82f8209.jpg",
     "static/media/Mockup05.jpg": "/Teofilo-Rosales-Freelancer/static/media/Mockup05.3f73bc6f3e609ff3ad13.jpg",
     "static/media/landing-page-servicio.png": "/Teofilo-Rosales-Freelancer/static/media/landing-page-servicio.2ebccc3ad0253051bc06.png",
     "static/media/logotipo-de-wordpress.png": "/Teofilo-Rosales-Freelancer/static/media/logotipo-de-wordpress.760d5768cde269af0fc4.png",
@@ -46,10 +49,10 @@
     "static/media/logo-teo-3.svg": "/Teofilo-Rosales-Freelancer/static/media/logo-teo-3.e918fd7cb9d08624e883b869e9d6e4eb.svg",
     "index.html": "/Teofilo-Rosales-Freelancer/index.html",
     "main.49db5852.css.map": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css.map",
-    "main.1ee5799d.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.1ee5799d.js.map"
+    "main.fac0fe6c.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.fac0fe6c.js.map"
   },
   "entrypoints": [
     "static/css/main.49db5852.css",
-    "static/js/main.1ee5799d.js"
+    "static/js/main.fac0fe6c.js"
   ]
 }
