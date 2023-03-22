@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css",
-    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.fac0fe6c.js",
+    "main.js": "/Teofilo-Rosales-Freelancer/static/js/main.ff58bd30.js",
     "static/media/RaicesTj.png": "/Teofilo-Rosales-Freelancer/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
     "static/media/banner-teofilowp-mobil.jpg": "/Teofilo-Rosales-Freelancer/static/media/banner-teofilowp-mobil.2031ac0887a540017e87.jpg",
     "static/media/bg-pattern.jpg": "/Teofilo-Rosales-Freelancer/static/media/bg-pattern.3f9a1fd0cc9d957a7110.jpg",
+    "static/media/Corporación-Joslim.jpg": "/Teofilo-Rosales-Freelancer/static/media/Corporación-Joslim.1cd8c3011c3b2c0ab6e6.jpg",
     "static/media/Mockup03.jpg": "/Teofilo-Rosales-Freelancer/static/media/Mockup03.b6e8a79f9d686bd89738.jpg",
     "static/media/bootstrap-icons.woff?": "/Teofilo-Rosales-Freelancer/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/plasticosmonterrey.com.jpg": "/Teofilo-Rosales-Freelancer/static/media/plasticosmonterrey.com.2d175669ad422992e916.jpg",
@@ -49,10 +50,10 @@
     "static/media/logo-teo-3.svg": "/Teofilo-Rosales-Freelancer/static/media/logo-teo-3.e918fd7cb9d08624e883b869e9d6e4eb.svg",
     "index.html": "/Teofilo-Rosales-Freelancer/index.html",
     "main.49db5852.css.map": "/Teofilo-Rosales-Freelancer/static/css/main.49db5852.css.map",
-    "main.fac0fe6c.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.fac0fe6c.js.map"
+    "main.ff58bd30.js.map": "/Teofilo-Rosales-Freelancer/static/js/main.ff58bd30.js.map"
   },
   "entrypoints": [
     "static/css/main.49db5852.css",
-    "static/js/main.fac0fe6c.js"
+    "static/js/main.ff58bd30.js"
   ]
 }
