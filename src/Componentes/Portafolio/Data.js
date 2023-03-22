@@ -30,6 +30,7 @@ import img29 from '../../imagenes/landing-page-teo06.jpg'
 import img30 from '../../imagenes/Dr. Leonardo Rueda - drleonardorueda.com.jpg'
 import img31 from '../../imagenes/Dra Daniela Correa – Cirujana Plástica.jpg'
 import img32 from '../../imagenes/Dr David Delgado.jpg'
+import img33 from '../../imagenes/Corporación-Joslim.jpg'
 const item = [
   {
      id: 1,
@@ -287,6 +288,14 @@ const item = [
     img: img32,
     desc: 'Migracion y limpieza de Virus.',
     link: 'https://daviddelgadocirujano.com/'
+  },
+  {
+    id: 33,
+    titulo: 'Corporación Joslim',
+    category: "Tiendas Online",
+    img: img33,
+    desc: 'Colaboracion Diseño Tienda',
+    link: 'https://corporacionjoslim.com/'
   },
 ]
 
